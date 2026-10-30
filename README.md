@@ -27,4 +27,4 @@ Certifique-se de que tem o Python instalado. Recomenda-se a utilização de um a
 
 ---
 ## 📜 Licença
-Desenvolvido para fins acadêmicos e educacionais sob a licença MIT[cite: 2].
+Desenvolvido para fins acadêmicos e educacionais sob a licença MIT.
