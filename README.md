@@ -23,3 +23,8 @@ Certifique-se de que tem o Python instalado. Recomenda-se a utilização de um a
    ```bash
    git clone [https://github.com/alinebmr/transfer-learning-pets.git](https://github.com/alinebmr/transfer-learning-pets.git)
    cd transfer-learning-pets
+   
+---
+
+## 📜 Licença
+Desenvolvido para fins acadêmicos e educacionais sob a licença MIT
